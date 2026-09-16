@@ -1,0 +1,3 @@
+# Assignment Schema
+
+Schema placeholder.

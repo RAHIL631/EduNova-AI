@@ -1,0 +1,1 @@
+"""EduNova AI application package."""

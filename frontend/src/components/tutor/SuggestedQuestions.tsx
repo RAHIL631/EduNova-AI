@@ -1,0 +1,1 @@
+export default function SuggestedQuestions() { return null; }
